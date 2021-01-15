@@ -12,6 +12,7 @@
     "autoprefixer": "^10.2.1",
     "next": "10.0.5",
     "next-images": "^1.6.2",
+    "next-on-netlify": "^2.8.1",
     "postcss": "^8.2.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
