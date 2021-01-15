@@ -1,4 +1,5 @@
 const withImages = require('next-images')
 module.exports =withImages( {
-    distDir: 'dist'
+    distDir: 'dist',
+    target: 'serverless'
 })
