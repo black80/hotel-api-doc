@@ -19,6 +19,7 @@ export default function Home() {
   }
   return (
     <div className="flex flex-row h-screen">
+     
       {/* Start of Side Bar */}
       <div className="space-y-6 flex flex-col w-1/6 shadow-md">
         <div id="logo" className="flex p-6 justify-center">
@@ -45,11 +46,11 @@ export default function Home() {
           <div className="flex flex-row w-full justify-around bg-gray-light p-3">
             <select className="bg-gray-dark border rounded-md w-min justify-around md:w-24 text-blue-custom font-bold shadow-sm">
               <option>
-                NodeJs
+                JS
               </option>
             </select>
             <button className="bg-blue-custom border rounded-md w-1/6 justify-around text-white">
-              Download API
+              <a href="https://github.com/black80/hotel-mockup">Clone Api</a>
           </button>
           </div>
         </div>
