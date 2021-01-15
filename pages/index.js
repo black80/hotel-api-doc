@@ -66,7 +66,7 @@ export default function Home() {
               <div className="row-span-3 font-semibold">response Name</div>
               <div className="col-span space-y-3">
                 <div className="w-full bg-playground rounded-md p-2 text-class-pink">
-                  http://localhost:3000/countries
+                  https://github.com/black80/hotel-mockup/countries
                 </div>
                 <div className="text-aurora text-sm italic">
                   string
@@ -92,7 +92,7 @@ export default function Home() {
               <div className="row-span-3 font-semibold">Room Type Name</div>
               <div className="col-span space-y-3">
                 <div className="w-full bg-playground rounded-md p-2 text-class-pink">
-                  http://localhost:3000/room-type
+                  https://github.com/black80/hotel-mockup/room-type
                 </div>
                 <div className="text-aurora text-sm italic">
                   string
@@ -118,7 +118,7 @@ export default function Home() {
               <div className="row-span-3 font-semibold">Service Name</div>
               <div className="col-span space-y-3">
                 <div className="w-full bg-playground rounded-md p-2 text-class-pink">
-                  http://localhost:3000/extra-service
+                  https://github.com/black80/hotel-mockup/extra-service
                 </div>
                 <div className="text-aurora text-sm italic">
                   string
@@ -144,7 +144,7 @@ export default function Home() {
               <div className="row-span-3 font-semibold">Guest First Name</div>
               <div className="col-span space-y-3">
                 <div className="w-full bg-playground rounded-md p-2 text-class-pink">
-                  http://localhost:3000/guests
+                  https://github.com/black80/hotel-mockup/guests
                 </div>
                 <div className="text-aurora text-sm italic">
                   string
